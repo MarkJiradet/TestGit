@@ -9,3 +9,4 @@ while result!=ATM_PASSWORD:
         result = "".join(list_number)+result
         print("Search = ",result)
 print("CRACK PASSWORD IS ",result)
+print("Hello world")
